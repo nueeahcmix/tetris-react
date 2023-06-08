@@ -1,0 +1,9 @@
+build
+node_modules
+App.test.js
+logo.svg
+reportWebVitals.js
+setupTests.js
+.gitignore
+package-lock.json
+README.md
